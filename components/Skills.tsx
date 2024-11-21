@@ -45,7 +45,7 @@ const Skills = () => {
         />
         <Image
           className="cursor-pointer hover:transition-all hover:scale-105 hover:ease"
-          src={"/projects/tailwind.jpg"}
+          src={"/skills/tailwind.jpg"}
           width={100}
           height={100}
           alt={"skills"}
